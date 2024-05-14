@@ -1,2 +1,2 @@
-# Frontend-
-Frontend Projects 
+# MessengerApp using MERN Stack
+Full Stack project
